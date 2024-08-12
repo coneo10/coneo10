@@ -80,7 +80,7 @@
             <td width="16.67%" align="center">
                 <a href="https://getbootstrap.com" target="_blank">
                     <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br><br>
-                    <img height="64px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"/>
+                    <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
                 </a>
             </td>
             <td width="16.67%" align="center">
