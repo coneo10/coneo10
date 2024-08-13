@@ -11,7 +11,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Ey!+Hello+I'm+Carlos+Coneo;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <br/>
-<br/>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
 </a>
